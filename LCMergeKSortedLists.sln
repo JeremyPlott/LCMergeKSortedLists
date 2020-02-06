@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCMergeKSortedLists", "LCMergeKSortedLists\LCMergeKSortedLists.csproj", "{F265D87F-07BD-42D4-B49D-1A30DD307F91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F265D87F-07BD-42D4-B49D-1A30DD307F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F265D87F-07BD-42D4-B49D-1A30DD307F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F265D87F-07BD-42D4-B49D-1A30DD307F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F265D87F-07BD-42D4-B49D-1A30DD307F91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D862BAAA-21C7-4CDF-BC56-0C266D089C95}
+	EndGlobalSection
+EndGlobal
