@@ -1,6 +1,5 @@
 ﻿public class Solution {
-    public ListNode MergeKLists(ListNode[] lists)
-{
+    public ListNode MergeKLists(ListNode[] lists) {
 
 	//these two list nodes are necessary to create our linked list.
 	//to add nodes in the correct order, we need to have a starting node, or we cannot add
@@ -52,4 +51,5 @@
 	//remember, we created a starting node at the beginning, but it is not a real value
 	//so we return the .next node which is our first real value from the input.
 	return mergedList.next;
-}	
+    }	
+}
