@@ -52,5 +52,4 @@
 	//remember, we created a starting node at the beginning, but it is not a real value
 	//so we return the .next node which is our first real value from the input.
 	return mergedList.next;
-}
-}
+}	
